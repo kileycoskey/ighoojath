@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ivaejoolah.insighthack.xyz/sitemap.xml
